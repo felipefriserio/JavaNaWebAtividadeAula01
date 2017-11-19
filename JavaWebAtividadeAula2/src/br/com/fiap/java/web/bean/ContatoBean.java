@@ -1,5 +1,4 @@
 package br.com.fiap.java.web.bean;
-
 public class ContatoBean {
 	private String nome;
 	private Integer idade;

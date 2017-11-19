@@ -1,5 +1,6 @@
 package br.com.fiap.java.web.bean;
 
+
 public class DadosAcessoContato {
 
 	private String dataPrimeiroAcesso;
